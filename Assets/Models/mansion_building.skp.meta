@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: b3bfe93d85c975e40b9a7b6f84cda6e3
+timeCreated: 1522959979
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000
+  assetHash:
+    serializedVersion: 2
+    Hash: b1135652c5617b9be5c698b683f79d4e
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 34.195778, y: 77.65897, z: 22.360895}
+      lookAt: {x: 34.195778, y: -10.4944725, z: 22.360895}
+      up: {x: 0, y: 0, z: 1}
+      fov: 45
+      aspectRatio: 0
+      orthoSize: 2151.1953
+      isPerspective: 0
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: baluster
+    100002: baluster 1
+    100004: baluster 10
+    100006: baluster 11
+    100008: baluster 12
+    100010: baluster 13
+    100012: baluster 14
+    100014: baluster 2
+    100016: baluster 3
+    100018: baluster 4
+    100020: baluster 5
+    100022: baluster 6
+    100024: baluster 7
+    100026: baluster 8
+    100028: baluster 9
+    100030: base_molding_new
+    100032: base_molding_new 1
+    100034: base_molding_new 10
+    100036: base_molding_new 11
+    100038: base_molding_new 12
+    100040: base_molding_new 13
+    100042: base_molding_new 14
+    100044: base_molding_new 15
+    100046: base_molding_new 16
+    100048: base_molding_new 17
+    100050: base_molding_new 18
+    100052: base_molding_new 19
+    100054: base_molding_new 2
+    100056: base_molding_new 20
+    100058: base_molding_new 21
+    100060: base_molding_new 22
+    100062: base_molding_new 23
+    100064: base_molding_new 24
+    100066: base_molding_new 25
+    100068: base_molding_new 26
+    100070: base_molding_new 27
+    100072: base_molding_new 28
+    100074: base_molding_new 29
+    100076: base_molding_new 3
+    100078: base_molding_new 30
+    100080: base_molding_new 31
+    100082: base_molding_new 32
+    100084: base_molding_new 33
+    100086: base_molding_new 34
+    100088: base_molding_new 35
+    100090: base_molding_new 36
+    100092: base_molding_new 37
+    100094: base_molding_new 38
+    100096: base_molding_new 39
+    100098: base_molding_new 4
+    100100: base_molding_new 40
+    100102: base_molding_new 41
+    100104: base_molding_new 42
+    100106: base_molding_new 43
+    100108: base_molding_new 44
+    100110: base_molding_new 45
+    100112: base_molding_new 46
+    100114: base_molding_new 47
+    100116: base_molding_new 48
+    100118: base_molding_new 49
+    100120: base_molding_new 5
+    100122: base_molding_new 50
+    100124: base_molding_new 51
+    100126: base_molding_new 52
+    100128: base_molding_new 53
+    100130: base_molding_new 54
+    100132: base_molding_new 55
+    100134: base_molding_new 56
+    100136: base_molding_new 57
+    100138: base_molding_new 58
+    100140: base_molding_new 59
+    100142: base_molding_new 6
+    100144: base_molding_new 60
+    100146: base_molding_new 61
+    100148: base_molding_new 62
+    100150: base_molding_new 63
+    100152: base_molding_new 64
+    100154: base_molding_new 65
+    100156: base_molding_new 66
+    100158: base_molding_new 67
+    100160: base_molding_new 68
+    100162: base_molding_new 69
+    100164: base_molding_new 7
+    100166: base_molding_new 70
+    100168: base_molding_new 71
+    100170: base_molding_new 72
+    100172: base_molding_new 73
+    100174: base_molding_new 74
+    100176: base_molding_new 75
+    100178: base_molding_new 76
+    100180: base_molding_new 77
+    100182: base_molding_new 78
+    100184: base_molding_new 79
+    100186: base_molding_new 8
+    100188: base_molding_new 9
+    100190: column_new
+    100192: column_new 1
+    100194: column_new 10
+    100196: column_new 11
+    100198: column_new 12
+    100200: column_new 13
+    100202: column_new 14
+    100204: column_new 15
+    100206: column_new 16
+    100208: column_new 17
+    100210: column_new 18
+    100212: column_new 19
+    100214: column_new 2
+    100216: column_new 20
+    100218: column_new 21
+    100220: column_new 22
+    100222: column_new 23
+    100224: column_new 24
+    100226: column_new 25
+    100228: column_new 26
+    100230: column_new 27
+    100232: column_new 3
+    100234: column_new 4
+    100236: column_new 5
+    100238: column_new 6
+    100240: column_new 7
+    100242: column_new 8
+    100244: column_new 9
+    100246: crown_moulding
+    100248: crown_moulding 1
+    100250: crown_moulding 2
+    100252: crown_moulding 3
+    100254: exterior_door_first_floor
+    100256: exterior_door_first_floor 1
+    100258: exterior_door_first_floor_capital_moulding
+    100260: exterior_door_first_floor_capital_moulding 1
+    100262: exterior_door_first_floor_capital_moulding 2
+    100264: exterior_door_first_floor_capital_moulding 3
+    100266: exterior_door_first_floor_top#2
+    100268: exterior_door_first_floor_top#2 1
+    100270: exterior_door_first_floor_top_moulding
+    100272: exterior_door_first_floor_top_moulding 1
+    100274: exterior_door_first_floor_top_moulding 2
+    100276: exterior_door_first_floor_top_moulding 3
+    100278: exterior_door_first_floor_top_moulding 4
+    100280: exterior_door_first_floor_top_moulding 5
+    100282: exterior_door_first_floor_top_moulding 6
+    100284: exterior_door_first_floor_top_moulding 7
+    100286: first_floor_door_open_left#1
+    100288: first_floor_door_open_left#1 1
+    100290: first_floor_door_open_left#1 2
+    100292: first_floor_door_open_left#1 3
+    100294: first_floor_door_open_left#1 4
+    100296: first_floor_door_open_right#3
+    100298: first_floor_door_open_right#3 1
+    100300: first_floor_door_open_right#3 2
+    100302: first_floor_door_open_right#3 3
+    100304: first_floor_interior_sliding_door#1
+    100306: Group 10
+    100308: Group 12
+    100310: Group 14
+    100312: Group 157
+    100314: Group 16
+    100316: Group 160
+    100318: Group 163
+    100320: Group 166
+    100322: Group 169
+    100324: Group 172
+    100326: Group 175
+    100328: Group 18
+    100330: Group 180
+    100332: Group 183
+    100334: Group 186
+    100336: Group 189
+    100338: Group 192
+    100340: Group 195
+    100342: Group 198
+    100344: Group 20
+    100346: Group 201
+    100348: Group 22
+    100350: Group 24
+    100352: Group 246
+    100354: Group 249
+    100356: Group 252
+    100358: Group 255
+    100360: Group 258
+    100362: Group 26
+    100364: Group 261
+    100366: Group 264
+    100368: Group 267
+    100370: Group 270
+    100372: Group 273
+    100374: Group 276
+    100376: Group 279
+    100378: Group 28
+    100380: Group 282
+    100382: Group 30
+    100384: Group 32
+    100386: Group 6
+    100388: Group 8
+    100390: //RootNode
+    400000: baluster
+    400002: baluster 1
+    400004: baluster 10
+    400006: baluster 11
+    400008: baluster 12
+    400010: baluster 13
+    400012: baluster 14
+    400014: baluster 2
+    400016: baluster 3
+    400018: baluster 4
+    400020: baluster 5
+    400022: baluster 6
+    400024: baluster 7
+    400026: baluster 8
+    400028: baluster 9
+    400030: base_molding_new
+    400032: base_molding_new 1
+    400034: base_molding_new 10
+    400036: base_molding_new 11
+    400038: base_molding_new 12
+    400040: base_molding_new 13
+    400042: base_molding_new 14
+    400044: base_molding_new 15
+    400046: base_molding_new 16
+    400048: base_molding_new 17
+    400050: base_molding_new 18
+    400052: base_molding_new 19
+    400054: base_molding_new 2
+    400056: base_molding_new 20
+    400058: base_molding_new 21
+    400060: base_molding_new 22
+    400062: base_molding_new 23
+    400064: base_molding_new 24
+    400066: base_molding_new 25
+    400068: base_molding_new 26
+    400070: base_molding_new 27
+    400072: base_molding_new 28
+    400074: base_molding_new 29
+    400076: base_molding_new 3
+    400078: base_molding_new 30
+    400080: base_molding_new 31
+    400082: base_molding_new 32
+    400084: base_molding_new 33
+    400086: base_molding_new 34
+    400088: base_molding_new 35
+    400090: base_molding_new 36
+    400092: base_molding_new 37
+    400094: base_molding_new 38
+    400096: base_molding_new 39
+    400098: base_molding_new 4
+    400100: base_molding_new 40
+    400102: base_molding_new 41
+    400104: base_molding_new 42
+    400106: base_molding_new 43
+    400108: base_molding_new 44
+    400110: base_molding_new 45
+    400112: base_molding_new 46
+    400114: base_molding_new 47
+    400116: base_molding_new 48
+    400118: base_molding_new 49
+    400120: base_molding_new 5
+    400122: base_molding_new 50
+    400124: base_molding_new 51
+    400126: base_molding_new 52
+    400128: base_molding_new 53
+    400130: base_molding_new 54
+    400132: base_molding_new 55
+    400134: base_molding_new 56
+    400136: base_molding_new 57
+    400138: base_molding_new 58
+    400140: base_molding_new 59
+    400142: base_molding_new 6
+    400144: base_molding_new 60
+    400146: base_molding_new 61
+    400148: base_molding_new 62
+    400150: base_molding_new 63
+    400152: base_molding_new 64
+    400154: base_molding_new 65
+    400156: base_molding_new 66
+    400158: base_molding_new 67
+    400160: base_molding_new 68
+    400162: base_molding_new 69
+    400164: base_molding_new 7
+    400166: base_molding_new 70
+    400168: base_molding_new 71
+    400170: base_molding_new 72
+    400172: base_molding_new 73
+    400174: base_molding_new 74
+    400176: base_molding_new 75
+    400178: base_molding_new 76
+    400180: base_molding_new 77
+    400182: base_molding_new 78
+    400184: base_molding_new 79
+    400186: base_molding_new 8
+    400188: base_molding_new 9
+    400190: column_new
+    400192: column_new 1
+    400194: column_new 10
+    400196: column_new 11
+    400198: column_new 12
+    400200: column_new 13
+    400202: column_new 14
+    400204: column_new 15
+    400206: column_new 16
+    400208: column_new 17
+    400210: column_new 18
+    400212: column_new 19
+    400214: column_new 2
+    400216: column_new 20
+    400218: column_new 21
+    400220: column_new 22
+    400222: column_new 23
+    400224: column_new 24
+    400226: column_new 25
+    400228: column_new 26
+    400230: column_new 27
+    400232: column_new 3
+    400234: column_new 4
+    400236: column_new 5
+    400238: column_new 6
+    400240: column_new 7
+    400242: column_new 8
+    400244: column_new 9
+    400246: crown_moulding
+    400248: crown_moulding 1
+    400250: crown_moulding 2
+    400252: crown_moulding 3
+    400254: exterior_door_first_floor
+    400256: exterior_door_first_floor 1
+    400258: exterior_door_first_floor_capital_moulding
+    400260: exterior_door_first_floor_capital_moulding 1
+    400262: exterior_door_first_floor_capital_moulding 2
+    400264: exterior_door_first_floor_capital_moulding 3
+    400266: exterior_door_first_floor_top#2
+    400268: exterior_door_first_floor_top#2 1
+    400270: exterior_door_first_floor_top_moulding
+    400272: exterior_door_first_floor_top_moulding 1
+    400274: exterior_door_first_floor_top_moulding 2
+    400276: exterior_door_first_floor_top_moulding 3
+    400278: exterior_door_first_floor_top_moulding 4
+    400280: exterior_door_first_floor_top_moulding 5
+    400282: exterior_door_first_floor_top_moulding 6
+    400284: exterior_door_first_floor_top_moulding 7
+    400286: first_floor_door_open_left#1
+    400288: first_floor_door_open_left#1 1
+    400290: first_floor_door_open_left#1 2
+    400292: first_floor_door_open_left#1 3
+    400294: first_floor_door_open_left#1 4
+    400296: first_floor_door_open_right#3
+    400298: first_floor_door_open_right#3 1
+    400300: first_floor_door_open_right#3 2
+    400302: first_floor_door_open_right#3 3
+    400304: first_floor_interior_sliding_door#1
+    400306: Group 10
+    400308: Group 12
+    400310: Group 14
+    400312: Group 157
+    400314: Group 16
+    400316: Group 160
+    400318: Group 163
+    400320: Group 166
+    400322: Group 169
+    400324: Group 172
+    400326: Group 175
+    400328: Group 18
+    400330: Group 180
+    400332: Group 183
+    400334: Group 186
+    400336: Group 189
+    400338: Group 192
+    400340: Group 195
+    400342: Group 198
+    400344: Group 20
+    400346: Group 201
+    400348: Group 22
+    400350: Group 24
+    400352: Group 246
+    400354: Group 249
+    400356: Group 252
+    400358: Group 255
+    400360: Group 258
+    400362: Group 26
+    400364: Group 261
+    400366: Group 264
+    400368: Group 267
+    400370: Group 270
+    400372: Group 273
+    400374: Group 276
+    400376: Group 279
+    400378: Group 28
+    400380: Group 282
+    400382: Group 30
+    400384: Group 32
+    400386: Group 6
+    400388: Group 8
+    400390: //RootNode
+    2100000: _defaultMat
+    2300000: baluster
+    2300002: baluster 1
+    2300004: baluster 10
+    2300006: baluster 11
+    2300008: baluster 12
+    2300010: baluster 13
+    2300012: baluster 14
+    2300014: baluster 2
+    2300016: baluster 3
+    2300018: baluster 4
+    2300020: baluster 5
+    2300022: baluster 6
+    2300024: baluster 7
+    2300026: baluster 8
+    2300028: baluster 9
+    2300030: base_molding_new
+    2300032: base_molding_new 1
+    2300034: base_molding_new 10
+    2300036: base_molding_new 11
+    2300038: base_molding_new 12
+    2300040: base_molding_new 13
+    2300042: base_molding_new 14
+    2300044: base_molding_new 15
+    2300046: base_molding_new 16
+    2300048: base_molding_new 17
+    2300050: base_molding_new 18
+    2300052: base_molding_new 19
+    2300054: base_molding_new 2
+    2300056: base_molding_new 20
+    2300058: base_molding_new 21
+    2300060: base_molding_new 22
+    2300062: base_molding_new 23
+    2300064: base_molding_new 24
+    2300066: base_molding_new 25
+    2300068: base_molding_new 26
+    2300070: base_molding_new 27
+    2300072: base_molding_new 28
+    2300074: base_molding_new 29
+    2300076: base_molding_new 3
+    2300078: base_molding_new 30
+    2300080: base_molding_new 31
+    2300082: base_molding_new 32
+    2300084: base_molding_new 33
+    2300086: base_molding_new 34
+    2300088: base_molding_new 35
+    2300090: base_molding_new 36
+    2300092: base_molding_new 37
+    2300094: base_molding_new 38
+    2300096: base_molding_new 39
+    2300098: base_molding_new 4
+    2300100: base_molding_new 40
+    2300102: base_molding_new 41
+    2300104: base_molding_new 42
+    2300106: base_molding_new 43
+    2300108: base_molding_new 44
+    2300110: base_molding_new 45
+    2300112: base_molding_new 46
+    2300114: base_molding_new 47
+    2300116: base_molding_new 48
+    2300118: base_molding_new 49
+    2300120: base_molding_new 5
+    2300122: base_molding_new 50
+    2300124: base_molding_new 51
+    2300126: base_molding_new 52
+    2300128: base_molding_new 53
+    2300130: base_molding_new 54
+    2300132: base_molding_new 55
+    2300134: base_molding_new 56
+    2300136: base_molding_new 57
+    2300138: base_molding_new 58
+    2300140: base_molding_new 59
+    2300142: base_molding_new 6
+    2300144: base_molding_new 60
+    2300146: base_molding_new 61
+    2300148: base_molding_new 62
+    2300150: base_molding_new 63
+    2300152: base_molding_new 64
+    2300154: base_molding_new 65
+    2300156: base_molding_new 66
+    2300158: base_molding_new 67
+    2300160: base_molding_new 68
+    2300162: base_molding_new 69
+    2300164: base_molding_new 7
+    2300166: base_molding_new 70
+    2300168: base_molding_new 71
+    2300170: base_molding_new 72
+    2300172: base_molding_new 73
+    2300174: base_molding_new 74
+    2300176: base_molding_new 75
+    2300178: base_molding_new 76
+    2300180: base_molding_new 77
+    2300182: base_molding_new 78
+    2300184: base_molding_new 79
+    2300186: base_molding_new 8
+    2300188: base_molding_new 9
+    2300190: crown_moulding
+    2300192: crown_moulding 1
+    2300194: crown_moulding 2
+    2300196: crown_moulding 3
+    2300198: exterior_door_first_floor
+    2300200: exterior_door_first_floor 1
+    2300202: exterior_door_first_floor_capital_moulding
+    2300204: exterior_door_first_floor_capital_moulding 1
+    2300206: exterior_door_first_floor_capital_moulding 2
+    2300208: exterior_door_first_floor_capital_moulding 3
+    2300210: exterior_door_first_floor_top#2
+    2300212: exterior_door_first_floor_top#2 1
+    2300214: exterior_door_first_floor_top_moulding
+    2300216: exterior_door_first_floor_top_moulding 1
+    2300218: exterior_door_first_floor_top_moulding 2
+    2300220: exterior_door_first_floor_top_moulding 3
+    2300222: exterior_door_first_floor_top_moulding 4
+    2300224: exterior_door_first_floor_top_moulding 5
+    2300226: exterior_door_first_floor_top_moulding 6
+    2300228: exterior_door_first_floor_top_moulding 7
+    2300230: first_floor_door_open_left#1
+    2300232: first_floor_door_open_left#1 1
+    2300234: first_floor_door_open_left#1 2
+    2300236: first_floor_door_open_left#1 3
+    2300238: first_floor_door_open_left#1 4
+    2300240: first_floor_door_open_right#3
+    2300242: first_floor_door_open_right#3 1
+    2300244: first_floor_door_open_right#3 2
+    2300246: first_floor_door_open_right#3 3
+    2300248: first_floor_interior_sliding_door#1
+    2300250: Group 10
+    2300252: Group 12
+    2300254: Group 14
+    2300256: Group 157
+    2300258: Group 16
+    2300260: Group 160
+    2300262: Group 163
+    2300264: Group 166
+    2300266: Group 169
+    2300268: Group 172
+    2300270: Group 175
+    2300272: Group 18
+    2300274: Group 180
+    2300276: Group 183
+    2300278: Group 186
+    2300280: Group 189
+    2300282: Group 192
+    2300284: Group 195
+    2300286: Group 198
+    2300288: Group 20
+    2300290: Group 201
+    2300292: Group 22
+    2300294: Group 24
+    2300296: Group 246
+    2300298: Group 249
+    2300300: Group 252
+    2300302: Group 255
+    2300304: Group 258
+    2300306: Group 26
+    2300308: Group 261
+    2300310: Group 264
+    2300312: Group 267
+    2300314: Group 270
+    2300316: Group 273
+    2300318: Group 276
+    2300320: Group 279
+    2300322: Group 28
+    2300324: Group 282
+    2300326: Group 30
+    2300328: Group 32
+    2300330: Group 6
+    2300332: Group 8
+    2300334: //RootNode
+    3300000: baluster
+    3300002: baluster 1
+    3300004: baluster 10
+    3300006: baluster 11
+    3300008: baluster 12
+    3300010: baluster 13
+    3300012: baluster 14
+    3300014: baluster 2
+    3300016: baluster 3
+    3300018: baluster 4
+    3300020: baluster 5
+    3300022: baluster 6
+    3300024: baluster 7
+    3300026: baluster 8
+    3300028: baluster 9
+    3300030: base_molding_new
+    3300032: base_molding_new 1
+    3300034: base_molding_new 10
+    3300036: base_molding_new 11
+    3300038: base_molding_new 12
+    3300040: base_molding_new 13
+    3300042: base_molding_new 14
+    3300044: base_molding_new 15
+    3300046: base_molding_new 16
+    3300048: base_molding_new 17
+    3300050: base_molding_new 18
+    3300052: base_molding_new 19
+    3300054: base_molding_new 2
+    3300056: base_molding_new 20
+    3300058: base_molding_new 21
+    3300060: base_molding_new 22
+    3300062: base_molding_new 23
+    3300064: base_molding_new 24
+    3300066: base_molding_new 25
+    3300068: base_molding_new 26
+    3300070: base_molding_new 27
+    3300072: base_molding_new 28
+    3300074: base_molding_new 29
+    3300076: base_molding_new 3
+    3300078: base_molding_new 30
+    3300080: base_molding_new 31
+    3300082: base_molding_new 32
+    3300084: base_molding_new 33
+    3300086: base_molding_new 34
+    3300088: base_molding_new 35
+    3300090: base_molding_new 36
+    3300092: base_molding_new 37
+    3300094: base_molding_new 38
+    3300096: base_molding_new 39
+    3300098: base_molding_new 4
+    3300100: base_molding_new 40
+    3300102: base_molding_new 41
+    3300104: base_molding_new 42
+    3300106: base_molding_new 43
+    3300108: base_molding_new 44
+    3300110: base_molding_new 45
+    3300112: base_molding_new 46
+    3300114: base_molding_new 47
+    3300116: base_molding_new 48
+    3300118: base_molding_new 49
+    3300120: base_molding_new 5
+    3300122: base_molding_new 50
+    3300124: base_molding_new 51
+    3300126: base_molding_new 52
+    3300128: base_molding_new 53
+    3300130: base_molding_new 54
+    3300132: base_molding_new 55
+    3300134: base_molding_new 56
+    3300136: base_molding_new 57
+    3300138: base_molding_new 58
+    3300140: base_molding_new 59
+    3300142: base_molding_new 6
+    3300144: base_molding_new 60
+    3300146: base_molding_new 61
+    3300148: base_molding_new 62
+    3300150: base_molding_new 63
+    3300152: base_molding_new 64
+    3300154: base_molding_new 65
+    3300156: base_molding_new 66
+    3300158: base_molding_new 67
+    3300160: base_molding_new 68
+    3300162: base_molding_new 69
+    3300164: base_molding_new 7
+    3300166: base_molding_new 70
+    3300168: base_molding_new 71
+    3300170: base_molding_new 72
+    3300172: base_molding_new 73
+    3300174: base_molding_new 74
+    3300176: base_molding_new 75
+    3300178: base_molding_new 76
+    3300180: base_molding_new 77
+    3300182: base_molding_new 78
+    3300184: base_molding_new 79
+    3300186: base_molding_new 8
+    3300188: base_molding_new 9
+    3300190: crown_moulding
+    3300192: crown_moulding 1
+    3300194: crown_moulding 2
+    3300196: crown_moulding 3
+    3300198: exterior_door_first_floor
+    3300200: exterior_door_first_floor 1
+    3300202: exterior_door_first_floor_capital_moulding
+    3300204: exterior_door_first_floor_capital_moulding 1
+    3300206: exterior_door_first_floor_capital_moulding 2
+    3300208: exterior_door_first_floor_capital_moulding 3
+    3300210: exterior_door_first_floor_top#2
+    3300212: exterior_door_first_floor_top#2 1
+    3300214: exterior_door_first_floor_top_moulding
+    3300216: exterior_door_first_floor_top_moulding 1
+    3300218: exterior_door_first_floor_top_moulding 2
+    3300220: exterior_door_first_floor_top_moulding 3
+    3300222: exterior_door_first_floor_top_moulding 4
+    3300224: exterior_door_first_floor_top_moulding 5
+    3300226: exterior_door_first_floor_top_moulding 6
+    3300228: exterior_door_first_floor_top_moulding 7
+    3300230: first_floor_door_open_left#1
+    3300232: first_floor_door_open_left#1 1
+    3300234: first_floor_door_open_left#1 2
+    3300236: first_floor_door_open_left#1 3
+    3300238: first_floor_door_open_left#1 4
+    3300240: first_floor_door_open_right#3
+    3300242: first_floor_door_open_right#3 1
+    3300244: first_floor_door_open_right#3 2
+    3300246: first_floor_door_open_right#3 3
+    3300248: first_floor_interior_sliding_door#1
+    3300250: Group 10
+    3300252: Group 12
+    3300254: Group 14
+    3300256: Group 157
+    3300258: Group 16
+    3300260: Group 160
+    3300262: Group 163
+    3300264: Group 166
+    3300266: Group 169
+    3300268: Group 172
+    3300270: Group 175
+    3300272: Group 18
+    3300274: Group 180
+    3300276: Group 183
+    3300278: Group 186
+    3300280: Group 189
+    3300282: Group 192
+    3300284: Group 195
+    3300286: Group 198
+    3300288: Group 20
+    3300290: Group 201
+    3300292: Group 22
+    3300294: Group 24
+    3300296: Group 246
+    3300298: Group 249
+    3300300: Group 252
+    3300302: Group 255
+    3300304: Group 258
+    3300306: Group 26
+    3300308: Group 261
+    3300310: Group 264
+    3300312: Group 267
+    3300314: Group 270
+    3300316: Group 273
+    3300318: Group 276
+    3300320: Group 279
+    3300322: Group 28
+    3300324: Group 282
+    3300326: Group 30
+    3300328: Group 32
+    3300330: Group 6
+    3300332: Group 8
+    3300334: //RootNode
+    4300000: Mesh uncle_sam_plantation_export - Copy
+    4300002: Mesh Group 6
+    4300004: Mesh Group 8
+    4300006: Mesh Group 16
+    4300008: Mesh Group 18
+    4300010: Mesh Group 28
+    4300012: Mesh Group 30
+    4300014: Mesh baluster
+    4300016: Mesh base_molding_new
+    4300018: Mesh Group 157
+    4300020: Mesh exterior_door_first_floor
+    4300022: Mesh exterior_door_first_floor_top_moulding
+    4300024: Mesh exterior_door_first_floor_capital_moulding
+    4300026: Mesh crown_moulding
+    4300028: Mesh first_floor_door_open_left#1
+    4300030: Mesh first_floor_door_open_right#3
+    4300032: Mesh first_floor_interior_sliding_door#1
+    4300034: Mesh exterior_door_first_floor_top#2
+    4300036: Mesh mansion_building
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

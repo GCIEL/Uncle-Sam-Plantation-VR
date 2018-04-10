@@ -1,0 +1,1797 @@
+fileFormatVersion: 2
+guid: 8733bd858a14dde4383c02582a098815
+timeCreated: 1522958848
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1 x 12 roof board
+    100002: 1 x 12 roof board001
+    100004: 1 x 12 roof board002
+    100006: 1 x 12 roof board003
+    100008: 1 x 12 roof board004
+    100010: 1 x 4 board
+    100012: 1 x 4 board001
+    100014: 1 x 4 board002
+    100016: 1 x 4 board003
+    100018: 1 x 4 board004
+    100020: 1 x 4 board005
+    100022: 1 x 4 board006
+    100024: 1 x 4 board007
+    100026: 1 x 4 window_frame_back_left
+    100028: 1 x 4 window_frame_back_right002
+    100030: 1 x 4 window_frame_front_left
+    100032: 1 x 4 window_frame_front_right001
+    100034: 1 x 5 window_frame_bottom_left
+    100036: 1 x 5 window_frame_bottom_right
+    100038: 1 x 5 window_frame_top_left
+    100040: 1 x 5 window_frame_top_right001
+    100042: 12 x 1 board
+    100044: 12 x 1 board001
+    100046: 12 x 1 board002
+    100048: 12 x 1 board003
+    100050: 12 x 1 board004
+    100052: 12 x 1 board005
+    100054: 12 x 1 board006
+    100056: 12 x 1 board007
+    100058: 12 x 1 board008
+    100060: 12 x 1 board009
+    100062: 12 x 1 board010
+    100064: 12 x 1 board011
+    100066: 12 x 1 board012
+    100068: 12 x 1 board013
+    100070: 12 x 1 board014
+    100072: 12 x 1 board015
+    100074: 12 x 1 board016
+    100076: 12 x 1 board017
+    100078: 12 x 1 board018
+    100080: 12 x 1 board019
+    100082: 2 x 2 railing support
+    100084: 2 x 2 railing support001
+    100086: 2 x 2 railing support002
+    100088: 2 x 2 railing support003
+    100090: 2 x 2 railing support004
+    100092: 2 x 2 railing support005
+    100094: 2 x 3 railing left
+    100096: 2 x 3 railing left side
+    100098: 2 x 3 railing right
+    100100: 2 x 3 railing right side
+    100102: 2 x 3 stair railing left
+    100104: 2 x 3 stair railing right
+    100106: 2 x 4 beam, left window bottom
+    100108: 2 x 4 beam, left window top
+    100110: 2 x 4 beam, right window bottom
+    100112: 2 x 4 beam, right window top
+    100114: 2 x 4 porch rafter001
+    100116: 2 x 4 porch rafter002
+    100118: 2 x 4 porch rafter003
+    100120: 2 x 4 porch rafter004
+    100122: 2 x 4 porch rafter005
+    100124: 2 x 4 porch rafter006
+    100126: 2 x 4 porch rafter007
+    100128: 2 x 6 beam top
+    100130: 2 x 6 floor board001
+    100132: 2 x 6 floor board002
+    100134: 2 x 6 floor board003
+    100136: 2 x 6 floor board004
+    100138: 2 x 6 floor board005
+    100140: 2 x 6 floor board006
+    100142: 2 x 6 floor board007
+    100144: 2 x 6 floor board008
+    100146: 2 x 6 floor board009
+    100148: 2 x 6 floor board010
+    100150: 2 x 6 floor board011
+    100152: 2 x 6 floor board012
+    100154: 2 x 6 floor board013
+    100156: 2 x 6 floor board014
+    100158: 2 x 6 floor board015
+    100160: 2 x 6 floor board016
+    100162: 2 x 6 floor board017
+    100164: 2 x 6 floor board018
+    100166: 2 x 6 floor board019
+    100168: 2 x 6 floor board020
+    100170: 2 x 6 floor board021
+    100172: 2 x 6 floor board022
+    100174: 2 x 6 floor board023
+    100176: 2 x 6 floor board024
+    100178: 2 x 6 floor board025
+    100180: 2 x 6 floor board026
+    100182: 2 x 6 floor board027
+    100184: 2 x 6 floor board028
+    100186: 2 x 6 porch board001
+    100188: 2 x 6 porch board002
+    100190: 2 x 6 porch board003
+    100192: 2 x 6 porch board004
+    100194: 2 x 6 porch board005
+    100196: 2 x 6 porch board006
+    100198: 2 x 6 porch board007
+    100200: 2 x 6 porch board008
+    100202: 2 x 6 porch board009
+    100204: 2 x 6 porch board010
+    100206: 2 x 6 porch board011
+    100208: 2 x 6 porch board012
+    100210: 2 x 6 porch board013
+    100212: 2 x 6 porch board014
+    100214: 2 x 6 porch board015
+    100216: 2 x 6 porch board016
+    100218: 2 x 6 porch board017
+    100220: 2 x 6 porch board018
+    100222: 2 x 6 porch board019
+    100224: 2 x 6 porch board020
+    100226: 2 x 6 porch board021
+    100228: 2 x 6 porch board022
+    100230: 2 x 6 porch board023
+    100232: 2 x 6 porch board024
+    100234: 2 x 6 porch board025
+    100236: 2 x 6 porch board026
+    100238: 2 x 6 porch board027
+    100240: 2 x 6 porch board028
+    100242: 2 x 6 porch board029
+    100244: 2 x 6 porch board030
+    100246: 2 x 6 porch board031
+    100248: 2 x 6 porch board032
+    100250: 2 x 6 porch board033
+    100252: 2 x 6 porch board034
+    100254: 2 x 6 porch board035
+    100256: 2 x 6 porch board036
+    100258: 2 x 6 porch board037
+    100260: 2 x 6 porch board038
+    100262: 2 x 6 porch board039
+    100264: 2 x 6 porch board040
+    100266: 2 x 6 porch board041
+    100268: 2 x 6 porch board042
+    100270: 2 x 6 porch board043
+    100272: 2 x 6 porch board044
+    100274: 2 x 6 porch board045
+    100276: 2 x 6 porch board046
+    100278: 2 x 6 porch board047
+    100280: 2 x 6 porch board048
+    100282: 2 x 6 porch board049
+    100284: 2 x 6 porch board050
+    100286: 2 x 6 porch board051
+    100288: 2 x 6 porch board052
+    100290: 2 x 6 porch board053
+    100292: 2 x 6 porch board054
+    100294: 2 x 6 porch board055
+    100296: 2 x 6 porch board056
+    100298: 2 x 8 beam bottom
+    100300: 2 x 8 beam bottom left
+    100302: 2 x 8 beam bottom right
+    100304: 2 x 8 beam bottom001
+    100306: 4 x 1 door left
+    100308: 4 x 1 door left001
+    100310: 4 x 1 door left002
+    100312: 4 x 1 door left003
+    100314: 4 x 1 door right
+    100316: 4 x 1 door right001
+    100318: 4 x 1 door right002
+    100320: 4 x 1 door right003
+    100322: 4 x 1 door top
+    100324: 4 x 1 door top001
+    100326: 4 x 1 door top002
+    100328: 4 x 1 door top003
+    100330: 4 x 1 support board bottom
+    100332: 4 x 1 support board bottom001
+    100334: 4 x 1 support board middle
+    100336: 4 x 1 support board middle001
+    100338: 4 x 1 support board top
+    100340: 4 x 1 support board top001
+    100342: 4 x 1 threshhold
+    100344: 4 x 1 threshhold001
+    100346: 4 x 1 threshhold002
+    100348: 4 x 1 threshhold003
+    100350: 4 x 4 beam, back center
+    100352: 4 x 4 beam, back midpoint left
+    100354: 4 x 4 beam, back midpoint right
+    100356: 4 x 4 beam, corner left and back
+    100358: 4 x 4 beam, corner left and front
+    100360: 4 x 4 beam, corner right and back wall
+    100362: 4 x 4 beam, corner right and front wall
+    100364: 4 x 4 beam, front center
+    100366: 4 x 4 beam, front midpoint left
+    100368: 4 x 4 beam, front midpoint right
+    100370: 4 x 4 beam, left door, left
+    100372: 4 x 4 beam, left door, left 1
+    100374: 4 x 4 beam, left door, right
+    100376: 4 x 4 beam, left door, right 1
+    100378: 4 x 4 beam, left window back
+    100380: 4 x 4 beam, left window front
+    100382: 4 x 4 beam, right door, left
+    100384: 4 x 4 beam, right door, left 1
+    100386: 4 x 4 beam, right door, right
+    100388: 4 x 4 beam, right door, right 1
+    100390: 4 x 4 beam, right window back
+    100392: 4 x 4 beam, right window front
+    100394: 4 x 4 beams001
+    100396: 4 x 4 beams002
+    100398: 4 x 4 beams003
+    100400: 4 x 4 beams004
+    100402: 4 x 4 beams005
+    100404: 4 x 4 beams006
+    100406: 4 x 4 rafter
+    100408: 4 x 4 rafter001
+    100410: 4 x 4 rafter002
+    100412: 4 x 4 rafter003
+    100414: 4 x 4 rafter004
+    100416: 4 x 4 rafter005
+    100418: 4 x 4 rafter006
+    100420: 4 x 4 rafter007
+    100422: 4 x 4 rafter008
+    100424: 4 x 4 rafter009
+    100426: 4 x 4 rafter010
+    100428: 4 x 4 rafter011
+    100430: 4 x 4 rafter012
+    100432: 4 x 4 rafter013
+    100434: 4 x 4 roof support beam left005
+    100436: 4 x 4 roof support beam left006
+    100438: 4 x 4 roof support beam left007
+    100440: 4 x 4 roof support beam left008
+    100442: 4 x 4 roof support beam left009
+    100444: 4 x 4 roof support beam right
+    100446: 4 x 4 roof support beam right001
+    100448: 4 x 4 roof support beam right002
+    100450: 4 x 4 roof support beam right003
+    100452: 4 x 4 roof support beam right004
+    100454: 4 x 4 support beam, corner left and back
+    100456: 4 x 4 support beam, corner left and back 1
+    100458: 4 x 4 support beam, corner left and front
+    100460: 4 x 4 support beam, corner left and front 1
+    100462: 4 x 4 support beam, corner right and back
+    100464: 4 x 4 support beam, corner right and back 1
+    100466: 4 x 4 support beam, corner right and front
+    100468: 4 x 4 support beam, corner right and front 1
+    100470: 4 x 6 ceiling beam, back
+    100472: 4 x 6 ceiling beam, front
+    100474: 4 x 6 ceiling beam, left
+    100476: 4 x 6 ceiling beam, right
+    100478: 4 x 6 joist
+    100480: 4 x 6 joist001
+    100482: 4 x 6 joist002
+    100484: 4 x 6 joist003
+    100486: 4 x 6 joist004
+    100488: 4 x 6 joist005
+    100490: 9 x 1 board
+    100492: 9 x 1 board001
+    100494: 9 x 1 board002
+    100496: 9 x 1 board003
+    100498: 9 x 1 board004
+    100500: 9 x 1 board005
+    100502: back
+    100504: base
+    100506: bottom_door_support
+    100508: bottom_door_support001
+    100510: bottom_door_support002
+    100512: bottom_door_support003
+    100514: clapboard_corner
+    100516: clapboard_corner001
+    100518: clapboard_corner002
+    100520: clapboard_corner003
+    100522: cut boards for windows, front and back
+    100524: cut boards for windows, sides
+    100526: door_plank
+    100528: door_plank001
+    100530: door_plank002
+    100532: door_plank003
+    100534: door_plank004
+    100536: door_plank005
+    100538: door_plank006
+    100540: door_plank007
+    100542: door_plank008
+    100544: door_plank009
+    100546: door_plank010
+    100548: door_plank011
+    100550: fireplace
+    100552: flue
+    100554: foundation_support009
+    100556: foundation_support023
+    100558: foundation_support024
+    100560: foundation_support025
+    100562: foundation_support026
+    100564: foundation_support027
+    100566: foundation_support028
+    100568: foundation_support029
+    100570: foundation_support030
+    100572: foundation_support031
+    100574: foundation_support032
+    100576: foundation_support033
+    100578: foundation_support034
+    100580: front
+    100582: Group001
+    100584: Group002
+    100586: left stair board
+    100588: left stair board001
+    100590: left stair board002
+    100592: middle_door_support
+    100594: middle_door_support001
+    100596: middle_door_support002
+    100598: middle_door_support003
+    100600: Plane097
+    100602: Plane098
+    100604: Plane099
+    100606: Plane100
+    100608: Plane101
+    100610: Plane102
+    100612: Plane103
+    100614: Plane113
+    100616: Plane114
+    100618: Plane115
+    100620: Plane116
+    100622: Plane117
+    100624: Plane118
+    100626: Plane119
+    100628: Plane120
+    100630: Plane121
+    100632: Plane131
+    100634: Plane132
+    100636: Plane148
+    100638: Plane149
+    100640: Plane150
+    100642: Plane166
+    100644: Plane167
+    100646: Plane168
+    100648: right stair board
+    100650: right stair board001
+    100652: right stair board002
+    100654: roof_clapboards_left
+    100656: roof_clapboards_right
+    100658: //RootNode
+    100660: step001
+    100662: step002
+    100664: step003
+    100666: step004
+    100668: step005
+    100670: step006
+    100672: step007
+    100674: step008
+    100676: step009
+    100678: storm_window_left_group
+    100680: top_door_support
+    100682: top_door_support001
+    100684: top_door_support002
+    100686: top_door_support003
+    100688: window_frame_right_group
+    400000: 1 x 12 roof board
+    400002: 1 x 12 roof board001
+    400004: 1 x 12 roof board002
+    400006: 1 x 12 roof board003
+    400008: 1 x 12 roof board004
+    400010: 1 x 4 board
+    400012: 1 x 4 board001
+    400014: 1 x 4 board002
+    400016: 1 x 4 board003
+    400018: 1 x 4 board004
+    400020: 1 x 4 board005
+    400022: 1 x 4 board006
+    400024: 1 x 4 board007
+    400026: 1 x 4 window_frame_back_left
+    400028: 1 x 4 window_frame_back_right002
+    400030: 1 x 4 window_frame_front_left
+    400032: 1 x 4 window_frame_front_right001
+    400034: 1 x 5 window_frame_bottom_left
+    400036: 1 x 5 window_frame_bottom_right
+    400038: 1 x 5 window_frame_top_left
+    400040: 1 x 5 window_frame_top_right001
+    400042: 12 x 1 board
+    400044: 12 x 1 board001
+    400046: 12 x 1 board002
+    400048: 12 x 1 board003
+    400050: 12 x 1 board004
+    400052: 12 x 1 board005
+    400054: 12 x 1 board006
+    400056: 12 x 1 board007
+    400058: 12 x 1 board008
+    400060: 12 x 1 board009
+    400062: 12 x 1 board010
+    400064: 12 x 1 board011
+    400066: 12 x 1 board012
+    400068: 12 x 1 board013
+    400070: 12 x 1 board014
+    400072: 12 x 1 board015
+    400074: 12 x 1 board016
+    400076: 12 x 1 board017
+    400078: 12 x 1 board018
+    400080: 12 x 1 board019
+    400082: 2 x 2 railing support
+    400084: 2 x 2 railing support001
+    400086: 2 x 2 railing support002
+    400088: 2 x 2 railing support003
+    400090: 2 x 2 railing support004
+    400092: 2 x 2 railing support005
+    400094: 2 x 3 railing left
+    400096: 2 x 3 railing left side
+    400098: 2 x 3 railing right
+    400100: 2 x 3 railing right side
+    400102: 2 x 3 stair railing left
+    400104: 2 x 3 stair railing right
+    400106: 2 x 4 beam, left window bottom
+    400108: 2 x 4 beam, left window top
+    400110: 2 x 4 beam, right window bottom
+    400112: 2 x 4 beam, right window top
+    400114: 2 x 4 porch rafter001
+    400116: 2 x 4 porch rafter002
+    400118: 2 x 4 porch rafter003
+    400120: 2 x 4 porch rafter004
+    400122: 2 x 4 porch rafter005
+    400124: 2 x 4 porch rafter006
+    400126: 2 x 4 porch rafter007
+    400128: 2 x 6 beam top
+    400130: 2 x 6 floor board001
+    400132: 2 x 6 floor board002
+    400134: 2 x 6 floor board003
+    400136: 2 x 6 floor board004
+    400138: 2 x 6 floor board005
+    400140: 2 x 6 floor board006
+    400142: 2 x 6 floor board007
+    400144: 2 x 6 floor board008
+    400146: 2 x 6 floor board009
+    400148: 2 x 6 floor board010
+    400150: 2 x 6 floor board011
+    400152: 2 x 6 floor board012
+    400154: 2 x 6 floor board013
+    400156: 2 x 6 floor board014
+    400158: 2 x 6 floor board015
+    400160: 2 x 6 floor board016
+    400162: 2 x 6 floor board017
+    400164: 2 x 6 floor board018
+    400166: 2 x 6 floor board019
+    400168: 2 x 6 floor board020
+    400170: 2 x 6 floor board021
+    400172: 2 x 6 floor board022
+    400174: 2 x 6 floor board023
+    400176: 2 x 6 floor board024
+    400178: 2 x 6 floor board025
+    400180: 2 x 6 floor board026
+    400182: 2 x 6 floor board027
+    400184: 2 x 6 floor board028
+    400186: 2 x 6 porch board001
+    400188: 2 x 6 porch board002
+    400190: 2 x 6 porch board003
+    400192: 2 x 6 porch board004
+    400194: 2 x 6 porch board005
+    400196: 2 x 6 porch board006
+    400198: 2 x 6 porch board007
+    400200: 2 x 6 porch board008
+    400202: 2 x 6 porch board009
+    400204: 2 x 6 porch board010
+    400206: 2 x 6 porch board011
+    400208: 2 x 6 porch board012
+    400210: 2 x 6 porch board013
+    400212: 2 x 6 porch board014
+    400214: 2 x 6 porch board015
+    400216: 2 x 6 porch board016
+    400218: 2 x 6 porch board017
+    400220: 2 x 6 porch board018
+    400222: 2 x 6 porch board019
+    400224: 2 x 6 porch board020
+    400226: 2 x 6 porch board021
+    400228: 2 x 6 porch board022
+    400230: 2 x 6 porch board023
+    400232: 2 x 6 porch board024
+    400234: 2 x 6 porch board025
+    400236: 2 x 6 porch board026
+    400238: 2 x 6 porch board027
+    400240: 2 x 6 porch board028
+    400242: 2 x 6 porch board029
+    400244: 2 x 6 porch board030
+    400246: 2 x 6 porch board031
+    400248: 2 x 6 porch board032
+    400250: 2 x 6 porch board033
+    400252: 2 x 6 porch board034
+    400254: 2 x 6 porch board035
+    400256: 2 x 6 porch board036
+    400258: 2 x 6 porch board037
+    400260: 2 x 6 porch board038
+    400262: 2 x 6 porch board039
+    400264: 2 x 6 porch board040
+    400266: 2 x 6 porch board041
+    400268: 2 x 6 porch board042
+    400270: 2 x 6 porch board043
+    400272: 2 x 6 porch board044
+    400274: 2 x 6 porch board045
+    400276: 2 x 6 porch board046
+    400278: 2 x 6 porch board047
+    400280: 2 x 6 porch board048
+    400282: 2 x 6 porch board049
+    400284: 2 x 6 porch board050
+    400286: 2 x 6 porch board051
+    400288: 2 x 6 porch board052
+    400290: 2 x 6 porch board053
+    400292: 2 x 6 porch board054
+    400294: 2 x 6 porch board055
+    400296: 2 x 6 porch board056
+    400298: 2 x 8 beam bottom
+    400300: 2 x 8 beam bottom left
+    400302: 2 x 8 beam bottom right
+    400304: 2 x 8 beam bottom001
+    400306: 4 x 1 door left
+    400308: 4 x 1 door left001
+    400310: 4 x 1 door left002
+    400312: 4 x 1 door left003
+    400314: 4 x 1 door right
+    400316: 4 x 1 door right001
+    400318: 4 x 1 door right002
+    400320: 4 x 1 door right003
+    400322: 4 x 1 door top
+    400324: 4 x 1 door top001
+    400326: 4 x 1 door top002
+    400328: 4 x 1 door top003
+    400330: 4 x 1 support board bottom
+    400332: 4 x 1 support board bottom001
+    400334: 4 x 1 support board middle
+    400336: 4 x 1 support board middle001
+    400338: 4 x 1 support board top
+    400340: 4 x 1 support board top001
+    400342: 4 x 1 threshhold
+    400344: 4 x 1 threshhold001
+    400346: 4 x 1 threshhold002
+    400348: 4 x 1 threshhold003
+    400350: 4 x 4 beam, back center
+    400352: 4 x 4 beam, back midpoint left
+    400354: 4 x 4 beam, back midpoint right
+    400356: 4 x 4 beam, corner left and back
+    400358: 4 x 4 beam, corner left and front
+    400360: 4 x 4 beam, corner right and back wall
+    400362: 4 x 4 beam, corner right and front wall
+    400364: 4 x 4 beam, front center
+    400366: 4 x 4 beam, front midpoint left
+    400368: 4 x 4 beam, front midpoint right
+    400370: 4 x 4 beam, left door, left
+    400372: 4 x 4 beam, left door, left 1
+    400374: 4 x 4 beam, left door, right
+    400376: 4 x 4 beam, left door, right 1
+    400378: 4 x 4 beam, left window back
+    400380: 4 x 4 beam, left window front
+    400382: 4 x 4 beam, right door, left
+    400384: 4 x 4 beam, right door, left 1
+    400386: 4 x 4 beam, right door, right
+    400388: 4 x 4 beam, right door, right 1
+    400390: 4 x 4 beam, right window back
+    400392: 4 x 4 beam, right window front
+    400394: 4 x 4 beams001
+    400396: 4 x 4 beams002
+    400398: 4 x 4 beams003
+    400400: 4 x 4 beams004
+    400402: 4 x 4 beams005
+    400404: 4 x 4 beams006
+    400406: 4 x 4 rafter
+    400408: 4 x 4 rafter001
+    400410: 4 x 4 rafter002
+    400412: 4 x 4 rafter003
+    400414: 4 x 4 rafter004
+    400416: 4 x 4 rafter005
+    400418: 4 x 4 rafter006
+    400420: 4 x 4 rafter007
+    400422: 4 x 4 rafter008
+    400424: 4 x 4 rafter009
+    400426: 4 x 4 rafter010
+    400428: 4 x 4 rafter011
+    400430: 4 x 4 rafter012
+    400432: 4 x 4 rafter013
+    400434: 4 x 4 roof support beam left005
+    400436: 4 x 4 roof support beam left006
+    400438: 4 x 4 roof support beam left007
+    400440: 4 x 4 roof support beam left008
+    400442: 4 x 4 roof support beam left009
+    400444: 4 x 4 roof support beam right
+    400446: 4 x 4 roof support beam right001
+    400448: 4 x 4 roof support beam right002
+    400450: 4 x 4 roof support beam right003
+    400452: 4 x 4 roof support beam right004
+    400454: 4 x 4 support beam, corner left and back
+    400456: 4 x 4 support beam, corner left and back 1
+    400458: 4 x 4 support beam, corner left and front
+    400460: 4 x 4 support beam, corner left and front 1
+    400462: 4 x 4 support beam, corner right and back
+    400464: 4 x 4 support beam, corner right and back 1
+    400466: 4 x 4 support beam, corner right and front
+    400468: 4 x 4 support beam, corner right and front 1
+    400470: 4 x 6 ceiling beam, back
+    400472: 4 x 6 ceiling beam, front
+    400474: 4 x 6 ceiling beam, left
+    400476: 4 x 6 ceiling beam, right
+    400478: 4 x 6 joist
+    400480: 4 x 6 joist001
+    400482: 4 x 6 joist002
+    400484: 4 x 6 joist003
+    400486: 4 x 6 joist004
+    400488: 4 x 6 joist005
+    400490: 9 x 1 board
+    400492: 9 x 1 board001
+    400494: 9 x 1 board002
+    400496: 9 x 1 board003
+    400498: 9 x 1 board004
+    400500: 9 x 1 board005
+    400502: back
+    400504: base
+    400506: bottom_door_support
+    400508: bottom_door_support001
+    400510: bottom_door_support002
+    400512: bottom_door_support003
+    400514: clapboard_corner
+    400516: clapboard_corner001
+    400518: clapboard_corner002
+    400520: clapboard_corner003
+    400522: cut boards for windows, front and back
+    400524: cut boards for windows, sides
+    400526: door_plank
+    400528: door_plank001
+    400530: door_plank002
+    400532: door_plank003
+    400534: door_plank004
+    400536: door_plank005
+    400538: door_plank006
+    400540: door_plank007
+    400542: door_plank008
+    400544: door_plank009
+    400546: door_plank010
+    400548: door_plank011
+    400550: fireplace
+    400552: flue
+    400554: foundation_support009
+    400556: foundation_support023
+    400558: foundation_support024
+    400560: foundation_support025
+    400562: foundation_support026
+    400564: foundation_support027
+    400566: foundation_support028
+    400568: foundation_support029
+    400570: foundation_support030
+    400572: foundation_support031
+    400574: foundation_support032
+    400576: foundation_support033
+    400578: foundation_support034
+    400580: front
+    400582: Group001
+    400584: Group002
+    400586: left stair board
+    400588: left stair board001
+    400590: left stair board002
+    400592: middle_door_support
+    400594: middle_door_support001
+    400596: middle_door_support002
+    400598: middle_door_support003
+    400600: Plane097
+    400602: Plane098
+    400604: Plane099
+    400606: Plane100
+    400608: Plane101
+    400610: Plane102
+    400612: Plane103
+    400614: Plane113
+    400616: Plane114
+    400618: Plane115
+    400620: Plane116
+    400622: Plane117
+    400624: Plane118
+    400626: Plane119
+    400628: Plane120
+    400630: Plane121
+    400632: Plane131
+    400634: Plane132
+    400636: Plane148
+    400638: Plane149
+    400640: Plane150
+    400642: Plane166
+    400644: Plane167
+    400646: Plane168
+    400648: right stair board
+    400650: right stair board001
+    400652: right stair board002
+    400654: roof_clapboards_left
+    400656: roof_clapboards_right
+    400658: //RootNode
+    400660: step001
+    400662: step002
+    400664: step003
+    400666: step004
+    400668: step005
+    400670: step006
+    400672: step007
+    400674: step008
+    400676: step009
+    400678: storm_window_left_group
+    400680: top_door_support
+    400682: top_door_support001
+    400684: top_door_support002
+    400686: top_door_support003
+    400688: window_frame_right_group
+    2100000: 'Material #29'
+    2300000: 1 x 12 roof board
+    2300002: 1 x 12 roof board001
+    2300004: 1 x 12 roof board002
+    2300006: 1 x 12 roof board003
+    2300008: 1 x 12 roof board004
+    2300010: 1 x 4 board
+    2300012: 1 x 4 board001
+    2300014: 1 x 4 board002
+    2300016: 1 x 4 board003
+    2300018: 1 x 4 board004
+    2300020: 1 x 4 board005
+    2300022: 1 x 4 board006
+    2300024: 1 x 4 board007
+    2300026: 1 x 4 window_frame_back_left
+    2300028: 1 x 4 window_frame_back_right002
+    2300030: 1 x 4 window_frame_front_left
+    2300032: 1 x 4 window_frame_front_right001
+    2300034: 1 x 5 window_frame_bottom_left
+    2300036: 1 x 5 window_frame_bottom_right
+    2300038: 1 x 5 window_frame_top_left
+    2300040: 1 x 5 window_frame_top_right001
+    2300042: 12 x 1 board
+    2300044: 12 x 1 board001
+    2300046: 12 x 1 board002
+    2300048: 12 x 1 board003
+    2300050: 12 x 1 board004
+    2300052: 12 x 1 board005
+    2300054: 12 x 1 board006
+    2300056: 12 x 1 board007
+    2300058: 12 x 1 board008
+    2300060: 12 x 1 board009
+    2300062: 12 x 1 board010
+    2300064: 12 x 1 board011
+    2300066: 12 x 1 board012
+    2300068: 12 x 1 board013
+    2300070: 12 x 1 board014
+    2300072: 12 x 1 board015
+    2300074: 12 x 1 board016
+    2300076: 12 x 1 board017
+    2300078: 12 x 1 board018
+    2300080: 12 x 1 board019
+    2300082: 2 x 2 railing support
+    2300084: 2 x 2 railing support001
+    2300086: 2 x 2 railing support002
+    2300088: 2 x 2 railing support003
+    2300090: 2 x 2 railing support004
+    2300092: 2 x 2 railing support005
+    2300094: 2 x 3 railing left
+    2300096: 2 x 3 railing left side
+    2300098: 2 x 3 railing right
+    2300100: 2 x 3 railing right side
+    2300102: 2 x 3 stair railing left
+    2300104: 2 x 3 stair railing right
+    2300106: 2 x 4 beam, left window bottom
+    2300108: 2 x 4 beam, left window top
+    2300110: 2 x 4 beam, right window bottom
+    2300112: 2 x 4 beam, right window top
+    2300114: 2 x 4 porch rafter001
+    2300116: 2 x 4 porch rafter002
+    2300118: 2 x 4 porch rafter003
+    2300120: 2 x 4 porch rafter004
+    2300122: 2 x 4 porch rafter005
+    2300124: 2 x 4 porch rafter006
+    2300126: 2 x 4 porch rafter007
+    2300128: 2 x 6 beam top
+    2300130: 2 x 6 floor board001
+    2300132: 2 x 6 floor board002
+    2300134: 2 x 6 floor board003
+    2300136: 2 x 6 floor board004
+    2300138: 2 x 6 floor board005
+    2300140: 2 x 6 floor board006
+    2300142: 2 x 6 floor board007
+    2300144: 2 x 6 floor board008
+    2300146: 2 x 6 floor board009
+    2300148: 2 x 6 floor board010
+    2300150: 2 x 6 floor board011
+    2300152: 2 x 6 floor board012
+    2300154: 2 x 6 floor board013
+    2300156: 2 x 6 floor board014
+    2300158: 2 x 6 floor board015
+    2300160: 2 x 6 floor board016
+    2300162: 2 x 6 floor board017
+    2300164: 2 x 6 floor board018
+    2300166: 2 x 6 floor board019
+    2300168: 2 x 6 floor board020
+    2300170: 2 x 6 floor board021
+    2300172: 2 x 6 floor board022
+    2300174: 2 x 6 floor board023
+    2300176: 2 x 6 floor board024
+    2300178: 2 x 6 floor board025
+    2300180: 2 x 6 floor board026
+    2300182: 2 x 6 floor board027
+    2300184: 2 x 6 floor board028
+    2300186: 2 x 6 porch board001
+    2300188: 2 x 6 porch board002
+    2300190: 2 x 6 porch board003
+    2300192: 2 x 6 porch board004
+    2300194: 2 x 6 porch board005
+    2300196: 2 x 6 porch board006
+    2300198: 2 x 6 porch board007
+    2300200: 2 x 6 porch board008
+    2300202: 2 x 6 porch board009
+    2300204: 2 x 6 porch board010
+    2300206: 2 x 6 porch board011
+    2300208: 2 x 6 porch board012
+    2300210: 2 x 6 porch board013
+    2300212: 2 x 6 porch board014
+    2300214: 2 x 6 porch board015
+    2300216: 2 x 6 porch board016
+    2300218: 2 x 6 porch board017
+    2300220: 2 x 6 porch board018
+    2300222: 2 x 6 porch board019
+    2300224: 2 x 6 porch board020
+    2300226: 2 x 6 porch board021
+    2300228: 2 x 6 porch board022
+    2300230: 2 x 6 porch board023
+    2300232: 2 x 6 porch board024
+    2300234: 2 x 6 porch board025
+    2300236: 2 x 6 porch board026
+    2300238: 2 x 6 porch board027
+    2300240: 2 x 6 porch board028
+    2300242: 2 x 6 porch board029
+    2300244: 2 x 6 porch board030
+    2300246: 2 x 6 porch board031
+    2300248: 2 x 6 porch board032
+    2300250: 2 x 6 porch board033
+    2300252: 2 x 6 porch board034
+    2300254: 2 x 6 porch board035
+    2300256: 2 x 6 porch board036
+    2300258: 2 x 6 porch board037
+    2300260: 2 x 6 porch board038
+    2300262: 2 x 6 porch board039
+    2300264: 2 x 6 porch board040
+    2300266: 2 x 6 porch board041
+    2300268: 2 x 6 porch board042
+    2300270: 2 x 6 porch board043
+    2300272: 2 x 6 porch board044
+    2300274: 2 x 6 porch board045
+    2300276: 2 x 6 porch board046
+    2300278: 2 x 6 porch board047
+    2300280: 2 x 6 porch board048
+    2300282: 2 x 6 porch board049
+    2300284: 2 x 6 porch board050
+    2300286: 2 x 6 porch board051
+    2300288: 2 x 6 porch board052
+    2300290: 2 x 6 porch board053
+    2300292: 2 x 6 porch board054
+    2300294: 2 x 6 porch board055
+    2300296: 2 x 6 porch board056
+    2300298: 2 x 8 beam bottom
+    2300300: 2 x 8 beam bottom left
+    2300302: 2 x 8 beam bottom right
+    2300304: 2 x 8 beam bottom001
+    2300306: 4 x 1 door left
+    2300308: 4 x 1 door left001
+    2300310: 4 x 1 door left002
+    2300312: 4 x 1 door left003
+    2300314: 4 x 1 door right
+    2300316: 4 x 1 door right001
+    2300318: 4 x 1 door right002
+    2300320: 4 x 1 door right003
+    2300322: 4 x 1 door top
+    2300324: 4 x 1 door top001
+    2300326: 4 x 1 door top002
+    2300328: 4 x 1 door top003
+    2300330: 4 x 1 support board bottom
+    2300332: 4 x 1 support board bottom001
+    2300334: 4 x 1 support board middle
+    2300336: 4 x 1 support board middle001
+    2300338: 4 x 1 support board top
+    2300340: 4 x 1 support board top001
+    2300342: 4 x 1 threshhold
+    2300344: 4 x 1 threshhold001
+    2300346: 4 x 1 threshhold002
+    2300348: 4 x 1 threshhold003
+    2300350: 4 x 4 beam, back center
+    2300352: 4 x 4 beam, back midpoint left
+    2300354: 4 x 4 beam, back midpoint right
+    2300356: 4 x 4 beam, corner left and back
+    2300358: 4 x 4 beam, corner left and front
+    2300360: 4 x 4 beam, corner right and back wall
+    2300362: 4 x 4 beam, corner right and front wall
+    2300364: 4 x 4 beam, front center
+    2300366: 4 x 4 beam, front midpoint left
+    2300368: 4 x 4 beam, front midpoint right
+    2300370: 4 x 4 beam, left door, left
+    2300372: 4 x 4 beam, left door, left 1
+    2300374: 4 x 4 beam, left door, right
+    2300376: 4 x 4 beam, left door, right 1
+    2300378: 4 x 4 beam, left window back
+    2300380: 4 x 4 beam, left window front
+    2300382: 4 x 4 beam, right door, left
+    2300384: 4 x 4 beam, right door, left 1
+    2300386: 4 x 4 beam, right door, right
+    2300388: 4 x 4 beam, right door, right 1
+    2300390: 4 x 4 beam, right window back
+    2300392: 4 x 4 beam, right window front
+    2300394: 4 x 4 beams001
+    2300396: 4 x 4 beams002
+    2300398: 4 x 4 beams003
+    2300400: 4 x 4 beams004
+    2300402: 4 x 4 beams005
+    2300404: 4 x 4 beams006
+    2300406: 4 x 4 rafter
+    2300408: 4 x 4 rafter001
+    2300410: 4 x 4 rafter002
+    2300412: 4 x 4 rafter003
+    2300414: 4 x 4 rafter004
+    2300416: 4 x 4 rafter005
+    2300418: 4 x 4 rafter006
+    2300420: 4 x 4 rafter007
+    2300422: 4 x 4 rafter008
+    2300424: 4 x 4 rafter009
+    2300426: 4 x 4 rafter010
+    2300428: 4 x 4 rafter011
+    2300430: 4 x 4 rafter012
+    2300432: 4 x 4 rafter013
+    2300434: 4 x 4 roof support beam left005
+    2300436: 4 x 4 roof support beam left006
+    2300438: 4 x 4 roof support beam left007
+    2300440: 4 x 4 roof support beam left008
+    2300442: 4 x 4 roof support beam left009
+    2300444: 4 x 4 roof support beam right
+    2300446: 4 x 4 roof support beam right001
+    2300448: 4 x 4 roof support beam right002
+    2300450: 4 x 4 roof support beam right003
+    2300452: 4 x 4 roof support beam right004
+    2300454: 4 x 4 support beam, corner left and back
+    2300456: 4 x 4 support beam, corner left and back 1
+    2300458: 4 x 4 support beam, corner left and front
+    2300460: 4 x 4 support beam, corner left and front 1
+    2300462: 4 x 4 support beam, corner right and back
+    2300464: 4 x 4 support beam, corner right and back 1
+    2300466: 4 x 4 support beam, corner right and front
+    2300468: 4 x 4 support beam, corner right and front 1
+    2300470: 4 x 6 ceiling beam, back
+    2300472: 4 x 6 ceiling beam, front
+    2300474: 4 x 6 ceiling beam, left
+    2300476: 4 x 6 ceiling beam, right
+    2300478: 4 x 6 joist
+    2300480: 4 x 6 joist001
+    2300482: 4 x 6 joist002
+    2300484: 4 x 6 joist003
+    2300486: 4 x 6 joist004
+    2300488: 4 x 6 joist005
+    2300490: 9 x 1 board
+    2300492: 9 x 1 board001
+    2300494: 9 x 1 board002
+    2300496: 9 x 1 board003
+    2300498: 9 x 1 board004
+    2300500: 9 x 1 board005
+    2300502: back
+    2300504: base
+    2300506: bottom_door_support
+    2300508: bottom_door_support001
+    2300510: bottom_door_support002
+    2300512: bottom_door_support003
+    2300514: clapboard_corner
+    2300516: clapboard_corner001
+    2300518: clapboard_corner002
+    2300520: clapboard_corner003
+    2300522: cut boards for windows, front and back
+    2300524: cut boards for windows, sides
+    2300526: door_plank
+    2300528: door_plank001
+    2300530: door_plank002
+    2300532: door_plank003
+    2300534: door_plank004
+    2300536: door_plank005
+    2300538: door_plank006
+    2300540: door_plank007
+    2300542: door_plank008
+    2300544: door_plank009
+    2300546: door_plank010
+    2300548: door_plank011
+    2300550: fireplace
+    2300552: flue
+    2300554: foundation_support009
+    2300556: foundation_support023
+    2300558: foundation_support024
+    2300560: foundation_support025
+    2300562: foundation_support026
+    2300564: foundation_support027
+    2300566: foundation_support028
+    2300568: foundation_support029
+    2300570: foundation_support030
+    2300572: foundation_support031
+    2300574: foundation_support032
+    2300576: foundation_support033
+    2300578: foundation_support034
+    2300580: front
+    2300582: left stair board
+    2300584: left stair board001
+    2300586: left stair board002
+    2300588: middle_door_support
+    2300590: middle_door_support001
+    2300592: middle_door_support002
+    2300594: middle_door_support003
+    2300596: Plane097
+    2300598: Plane098
+    2300600: Plane099
+    2300602: Plane100
+    2300604: Plane101
+    2300606: Plane102
+    2300608: Plane103
+    2300610: Plane113
+    2300612: Plane114
+    2300614: Plane115
+    2300616: Plane116
+    2300618: Plane117
+    2300620: Plane118
+    2300622: Plane119
+    2300624: Plane120
+    2300626: Plane121
+    2300628: Plane131
+    2300630: Plane132
+    2300632: Plane148
+    2300634: Plane149
+    2300636: Plane150
+    2300638: Plane166
+    2300640: Plane167
+    2300642: Plane168
+    2300644: right stair board
+    2300646: right stair board001
+    2300648: right stair board002
+    2300650: roof_clapboards_left
+    2300652: roof_clapboards_right
+    2300654: step001
+    2300656: step002
+    2300658: step003
+    2300660: step004
+    2300662: step005
+    2300664: step006
+    2300666: step007
+    2300668: step008
+    2300670: step009
+    2300672: top_door_support
+    2300674: top_door_support001
+    2300676: top_door_support002
+    2300678: top_door_support003
+    3300000: 1 x 12 roof board
+    3300002: 1 x 12 roof board001
+    3300004: 1 x 12 roof board002
+    3300006: 1 x 12 roof board003
+    3300008: 1 x 12 roof board004
+    3300010: 1 x 4 board
+    3300012: 1 x 4 board001
+    3300014: 1 x 4 board002
+    3300016: 1 x 4 board003
+    3300018: 1 x 4 board004
+    3300020: 1 x 4 board005
+    3300022: 1 x 4 board006
+    3300024: 1 x 4 board007
+    3300026: 1 x 4 window_frame_back_left
+    3300028: 1 x 4 window_frame_back_right002
+    3300030: 1 x 4 window_frame_front_left
+    3300032: 1 x 4 window_frame_front_right001
+    3300034: 1 x 5 window_frame_bottom_left
+    3300036: 1 x 5 window_frame_bottom_right
+    3300038: 1 x 5 window_frame_top_left
+    3300040: 1 x 5 window_frame_top_right001
+    3300042: 12 x 1 board
+    3300044: 12 x 1 board001
+    3300046: 12 x 1 board002
+    3300048: 12 x 1 board003
+    3300050: 12 x 1 board004
+    3300052: 12 x 1 board005
+    3300054: 12 x 1 board006
+    3300056: 12 x 1 board007
+    3300058: 12 x 1 board008
+    3300060: 12 x 1 board009
+    3300062: 12 x 1 board010
+    3300064: 12 x 1 board011
+    3300066: 12 x 1 board012
+    3300068: 12 x 1 board013
+    3300070: 12 x 1 board014
+    3300072: 12 x 1 board015
+    3300074: 12 x 1 board016
+    3300076: 12 x 1 board017
+    3300078: 12 x 1 board018
+    3300080: 12 x 1 board019
+    3300082: 2 x 2 railing support
+    3300084: 2 x 2 railing support001
+    3300086: 2 x 2 railing support002
+    3300088: 2 x 2 railing support003
+    3300090: 2 x 2 railing support004
+    3300092: 2 x 2 railing support005
+    3300094: 2 x 3 railing left
+    3300096: 2 x 3 railing left side
+    3300098: 2 x 3 railing right
+    3300100: 2 x 3 railing right side
+    3300102: 2 x 3 stair railing left
+    3300104: 2 x 3 stair railing right
+    3300106: 2 x 4 beam, left window bottom
+    3300108: 2 x 4 beam, left window top
+    3300110: 2 x 4 beam, right window bottom
+    3300112: 2 x 4 beam, right window top
+    3300114: 2 x 4 porch rafter001
+    3300116: 2 x 4 porch rafter002
+    3300118: 2 x 4 porch rafter003
+    3300120: 2 x 4 porch rafter004
+    3300122: 2 x 4 porch rafter005
+    3300124: 2 x 4 porch rafter006
+    3300126: 2 x 4 porch rafter007
+    3300128: 2 x 6 beam top
+    3300130: 2 x 6 floor board001
+    3300132: 2 x 6 floor board002
+    3300134: 2 x 6 floor board003
+    3300136: 2 x 6 floor board004
+    3300138: 2 x 6 floor board005
+    3300140: 2 x 6 floor board006
+    3300142: 2 x 6 floor board007
+    3300144: 2 x 6 floor board008
+    3300146: 2 x 6 floor board009
+    3300148: 2 x 6 floor board010
+    3300150: 2 x 6 floor board011
+    3300152: 2 x 6 floor board012
+    3300154: 2 x 6 floor board013
+    3300156: 2 x 6 floor board014
+    3300158: 2 x 6 floor board015
+    3300160: 2 x 6 floor board016
+    3300162: 2 x 6 floor board017
+    3300164: 2 x 6 floor board018
+    3300166: 2 x 6 floor board019
+    3300168: 2 x 6 floor board020
+    3300170: 2 x 6 floor board021
+    3300172: 2 x 6 floor board022
+    3300174: 2 x 6 floor board023
+    3300176: 2 x 6 floor board024
+    3300178: 2 x 6 floor board025
+    3300180: 2 x 6 floor board026
+    3300182: 2 x 6 floor board027
+    3300184: 2 x 6 floor board028
+    3300186: 2 x 6 porch board001
+    3300188: 2 x 6 porch board002
+    3300190: 2 x 6 porch board003
+    3300192: 2 x 6 porch board004
+    3300194: 2 x 6 porch board005
+    3300196: 2 x 6 porch board006
+    3300198: 2 x 6 porch board007
+    3300200: 2 x 6 porch board008
+    3300202: 2 x 6 porch board009
+    3300204: 2 x 6 porch board010
+    3300206: 2 x 6 porch board011
+    3300208: 2 x 6 porch board012
+    3300210: 2 x 6 porch board013
+    3300212: 2 x 6 porch board014
+    3300214: 2 x 6 porch board015
+    3300216: 2 x 6 porch board016
+    3300218: 2 x 6 porch board017
+    3300220: 2 x 6 porch board018
+    3300222: 2 x 6 porch board019
+    3300224: 2 x 6 porch board020
+    3300226: 2 x 6 porch board021
+    3300228: 2 x 6 porch board022
+    3300230: 2 x 6 porch board023
+    3300232: 2 x 6 porch board024
+    3300234: 2 x 6 porch board025
+    3300236: 2 x 6 porch board026
+    3300238: 2 x 6 porch board027
+    3300240: 2 x 6 porch board028
+    3300242: 2 x 6 porch board029
+    3300244: 2 x 6 porch board030
+    3300246: 2 x 6 porch board031
+    3300248: 2 x 6 porch board032
+    3300250: 2 x 6 porch board033
+    3300252: 2 x 6 porch board034
+    3300254: 2 x 6 porch board035
+    3300256: 2 x 6 porch board036
+    3300258: 2 x 6 porch board037
+    3300260: 2 x 6 porch board038
+    3300262: 2 x 6 porch board039
+    3300264: 2 x 6 porch board040
+    3300266: 2 x 6 porch board041
+    3300268: 2 x 6 porch board042
+    3300270: 2 x 6 porch board043
+    3300272: 2 x 6 porch board044
+    3300274: 2 x 6 porch board045
+    3300276: 2 x 6 porch board046
+    3300278: 2 x 6 porch board047
+    3300280: 2 x 6 porch board048
+    3300282: 2 x 6 porch board049
+    3300284: 2 x 6 porch board050
+    3300286: 2 x 6 porch board051
+    3300288: 2 x 6 porch board052
+    3300290: 2 x 6 porch board053
+    3300292: 2 x 6 porch board054
+    3300294: 2 x 6 porch board055
+    3300296: 2 x 6 porch board056
+    3300298: 2 x 8 beam bottom
+    3300300: 2 x 8 beam bottom left
+    3300302: 2 x 8 beam bottom right
+    3300304: 2 x 8 beam bottom001
+    3300306: 4 x 1 door left
+    3300308: 4 x 1 door left001
+    3300310: 4 x 1 door left002
+    3300312: 4 x 1 door left003
+    3300314: 4 x 1 door right
+    3300316: 4 x 1 door right001
+    3300318: 4 x 1 door right002
+    3300320: 4 x 1 door right003
+    3300322: 4 x 1 door top
+    3300324: 4 x 1 door top001
+    3300326: 4 x 1 door top002
+    3300328: 4 x 1 door top003
+    3300330: 4 x 1 support board bottom
+    3300332: 4 x 1 support board bottom001
+    3300334: 4 x 1 support board middle
+    3300336: 4 x 1 support board middle001
+    3300338: 4 x 1 support board top
+    3300340: 4 x 1 support board top001
+    3300342: 4 x 1 threshhold
+    3300344: 4 x 1 threshhold001
+    3300346: 4 x 1 threshhold002
+    3300348: 4 x 1 threshhold003
+    3300350: 4 x 4 beam, back center
+    3300352: 4 x 4 beam, back midpoint left
+    3300354: 4 x 4 beam, back midpoint right
+    3300356: 4 x 4 beam, corner left and back
+    3300358: 4 x 4 beam, corner left and front
+    3300360: 4 x 4 beam, corner right and back wall
+    3300362: 4 x 4 beam, corner right and front wall
+    3300364: 4 x 4 beam, front center
+    3300366: 4 x 4 beam, front midpoint left
+    3300368: 4 x 4 beam, front midpoint right
+    3300370: 4 x 4 beam, left door, left
+    3300372: 4 x 4 beam, left door, left 1
+    3300374: 4 x 4 beam, left door, right
+    3300376: 4 x 4 beam, left door, right 1
+    3300378: 4 x 4 beam, left window back
+    3300380: 4 x 4 beam, left window front
+    3300382: 4 x 4 beam, right door, left
+    3300384: 4 x 4 beam, right door, left 1
+    3300386: 4 x 4 beam, right door, right
+    3300388: 4 x 4 beam, right door, right 1
+    3300390: 4 x 4 beam, right window back
+    3300392: 4 x 4 beam, right window front
+    3300394: 4 x 4 beams001
+    3300396: 4 x 4 beams002
+    3300398: 4 x 4 beams003
+    3300400: 4 x 4 beams004
+    3300402: 4 x 4 beams005
+    3300404: 4 x 4 beams006
+    3300406: 4 x 4 rafter
+    3300408: 4 x 4 rafter001
+    3300410: 4 x 4 rafter002
+    3300412: 4 x 4 rafter003
+    3300414: 4 x 4 rafter004
+    3300416: 4 x 4 rafter005
+    3300418: 4 x 4 rafter006
+    3300420: 4 x 4 rafter007
+    3300422: 4 x 4 rafter008
+    3300424: 4 x 4 rafter009
+    3300426: 4 x 4 rafter010
+    3300428: 4 x 4 rafter011
+    3300430: 4 x 4 rafter012
+    3300432: 4 x 4 rafter013
+    3300434: 4 x 4 roof support beam left005
+    3300436: 4 x 4 roof support beam left006
+    3300438: 4 x 4 roof support beam left007
+    3300440: 4 x 4 roof support beam left008
+    3300442: 4 x 4 roof support beam left009
+    3300444: 4 x 4 roof support beam right
+    3300446: 4 x 4 roof support beam right001
+    3300448: 4 x 4 roof support beam right002
+    3300450: 4 x 4 roof support beam right003
+    3300452: 4 x 4 roof support beam right004
+    3300454: 4 x 4 support beam, corner left and back
+    3300456: 4 x 4 support beam, corner left and back 1
+    3300458: 4 x 4 support beam, corner left and front
+    3300460: 4 x 4 support beam, corner left and front 1
+    3300462: 4 x 4 support beam, corner right and back
+    3300464: 4 x 4 support beam, corner right and back 1
+    3300466: 4 x 4 support beam, corner right and front
+    3300468: 4 x 4 support beam, corner right and front 1
+    3300470: 4 x 6 ceiling beam, back
+    3300472: 4 x 6 ceiling beam, front
+    3300474: 4 x 6 ceiling beam, left
+    3300476: 4 x 6 ceiling beam, right
+    3300478: 4 x 6 joist
+    3300480: 4 x 6 joist001
+    3300482: 4 x 6 joist002
+    3300484: 4 x 6 joist003
+    3300486: 4 x 6 joist004
+    3300488: 4 x 6 joist005
+    3300490: 9 x 1 board
+    3300492: 9 x 1 board001
+    3300494: 9 x 1 board002
+    3300496: 9 x 1 board003
+    3300498: 9 x 1 board004
+    3300500: 9 x 1 board005
+    3300502: back
+    3300504: base
+    3300506: bottom_door_support
+    3300508: bottom_door_support001
+    3300510: bottom_door_support002
+    3300512: bottom_door_support003
+    3300514: clapboard_corner
+    3300516: clapboard_corner001
+    3300518: clapboard_corner002
+    3300520: clapboard_corner003
+    3300522: cut boards for windows, front and back
+    3300524: cut boards for windows, sides
+    3300526: door_plank
+    3300528: door_plank001
+    3300530: door_plank002
+    3300532: door_plank003
+    3300534: door_plank004
+    3300536: door_plank005
+    3300538: door_plank006
+    3300540: door_plank007
+    3300542: door_plank008
+    3300544: door_plank009
+    3300546: door_plank010
+    3300548: door_plank011
+    3300550: fireplace
+    3300552: flue
+    3300554: foundation_support009
+    3300556: foundation_support023
+    3300558: foundation_support024
+    3300560: foundation_support025
+    3300562: foundation_support026
+    3300564: foundation_support027
+    3300566: foundation_support028
+    3300568: foundation_support029
+    3300570: foundation_support030
+    3300572: foundation_support031
+    3300574: foundation_support032
+    3300576: foundation_support033
+    3300578: foundation_support034
+    3300580: front
+    3300582: left stair board
+    3300584: left stair board001
+    3300586: left stair board002
+    3300588: middle_door_support
+    3300590: middle_door_support001
+    3300592: middle_door_support002
+    3300594: middle_door_support003
+    3300596: Plane097
+    3300598: Plane098
+    3300600: Plane099
+    3300602: Plane100
+    3300604: Plane101
+    3300606: Plane102
+    3300608: Plane103
+    3300610: Plane113
+    3300612: Plane114
+    3300614: Plane115
+    3300616: Plane116
+    3300618: Plane117
+    3300620: Plane118
+    3300622: Plane119
+    3300624: Plane120
+    3300626: Plane121
+    3300628: Plane131
+    3300630: Plane132
+    3300632: Plane148
+    3300634: Plane149
+    3300636: Plane150
+    3300638: Plane166
+    3300640: Plane167
+    3300642: Plane168
+    3300644: right stair board
+    3300646: right stair board001
+    3300648: right stair board002
+    3300650: roof_clapboards_left
+    3300652: roof_clapboards_right
+    3300654: step001
+    3300656: step002
+    3300658: step003
+    3300660: step004
+    3300662: step005
+    3300664: step006
+    3300666: step007
+    3300668: step008
+    3300670: step009
+    3300672: top_door_support
+    3300674: top_door_support001
+    3300676: top_door_support002
+    3300678: top_door_support003
+    4300000: 9 x 1 board002
+    4300002: 9 x 1 board001
+    4300004: 9 x 1 board
+    4300006: 4 x 1 support board top
+    4300008: 4 x 1 support board middle
+    4300010: 4 x 1 support board bottom
+    4300012: 1 x 5 window_frame_top_right001
+    4300014: 1 x 5 window_frame_bottom_right
+    4300016: 1 x 4 window_frame_front_right001
+    4300018: 1 x 4 window_frame_back_right002
+    4300020: 4 x 1 support board bottom001
+    4300022: 4 x 1 support board middle001
+    4300024: 4 x 1 support board top001
+    4300026: 9 x 1 board003
+    4300028: 9 x 1 board004
+    4300030: 9 x 1 board005
+    4300032: 1 x 5 window_frame_top_left
+    4300034: 1 x 5 window_frame_bottom_left
+    4300036: 1 x 4 window_frame_front_left
+    4300038: 1 x 4 window_frame_back_left
+    4300040: roof_clapboards_right
+    4300042: roof_clapboards_left
+    4300044: 12 x 1 board019
+    4300046: 12 x 1 board018
+    4300048: 12 x 1 board017
+    4300050: 12 x 1 board016
+    4300052: 12 x 1 board015
+    4300054: 12 x 1 board014
+    4300056: 12 x 1 board013
+    4300058: 12 x 1 board012
+    4300060: 12 x 1 board011
+    4300062: 12 x 1 board010
+    4300064: 12 x 1 board009
+    4300066: 12 x 1 board008
+    4300068: 12 x 1 board007
+    4300070: 12 x 1 board006
+    4300072: 12 x 1 board005
+    4300074: 12 x 1 board004
+    4300076: 12 x 1 board003
+    4300078: 12 x 1 board002
+    4300080: 12 x 1 board001
+    4300082: 12 x 1 board
+    4300084: step003
+    4300086: step002
+    4300088: step001
+    4300090: right stair board
+    4300092: left stair board
+    4300094: 4 x 4 beams006
+    4300096: 4 x 4 beams005
+    4300098: 2 x 3 stair railing right
+    4300100: 2 x 3 stair railing left
+    4300102: step006
+    4300104: step005
+    4300106: step004
+    4300108: right stair board001
+    4300110: left stair board001
+    4300112: step009
+    4300114: step008
+    4300116: step007
+    4300118: right stair board002
+    4300120: left stair board002
+    4300122: 2 x 8 beam bottom001
+    4300124: 4 x 4 beams004
+    4300126: 4 x 4 beams003
+    4300128: 4 x 4 beams002
+    4300130: 4 x 4 beams001
+    4300132: 2 x 8 beam bottom right
+    4300134: 2 x 8 beam bottom left
+    4300136: 2 x 8 beam bottom
+    4300138: 2 x 6 beam top
+    4300140: 2 x 4 porch rafter007
+    4300142: 2 x 4 porch rafter006
+    4300144: 2 x 4 porch rafter005
+    4300146: 2 x 4 porch rafter004
+    4300148: 2 x 4 porch rafter003
+    4300150: 2 x 4 porch rafter002
+    4300152: 2 x 4 porch rafter001
+    4300154: 2 x 3 railing right side
+    4300156: 2 x 3 railing right
+    4300158: 2 x 3 railing left side
+    4300160: 2 x 3 railing left
+    4300162: 2 x 2 railing support005
+    4300164: 2 x 2 railing support004
+    4300166: 2 x 2 railing support003
+    4300168: 2 x 2 railing support002
+    4300170: 2 x 2 railing support001
+    4300172: 2 x 2 railing support
+    4300174: 1 x 12 roof board004
+    4300176: 1 x 12 roof board003
+    4300178: 1 x 12 roof board002
+    4300180: 1 x 12 roof board001
+    4300182: 1 x 12 roof board
+    4300184: 2 x 6 porch board056
+    4300186: 2 x 6 porch board055
+    4300188: 2 x 6 porch board054
+    4300190: 2 x 6 porch board053
+    4300192: 2 x 6 porch board052
+    4300194: 2 x 6 porch board051
+    4300196: 2 x 6 porch board050
+    4300198: 2 x 6 porch board049
+    4300200: 2 x 6 porch board048
+    4300202: 2 x 6 porch board047
+    4300204: 2 x 6 porch board046
+    4300206: 2 x 6 porch board045
+    4300208: 2 x 6 porch board044
+    4300210: 2 x 6 porch board043
+    4300212: 2 x 6 porch board042
+    4300214: 2 x 6 porch board041
+    4300216: 2 x 6 porch board040
+    4300218: 2 x 6 porch board039
+    4300220: 2 x 6 porch board038
+    4300222: 2 x 6 porch board037
+    4300224: 2 x 6 porch board036
+    4300226: 2 x 6 porch board035
+    4300228: 2 x 6 porch board034
+    4300230: 2 x 6 porch board033
+    4300232: 2 x 6 porch board032
+    4300234: 2 x 6 porch board031
+    4300236: 2 x 6 porch board030
+    4300238: 2 x 6 porch board029
+    4300240: 2 x 6 porch board028
+    4300242: 2 x 6 porch board027
+    4300244: 2 x 6 porch board026
+    4300246: 2 x 6 porch board025
+    4300248: 2 x 6 porch board024
+    4300250: 2 x 6 porch board023
+    4300252: 2 x 6 porch board022
+    4300254: 2 x 6 porch board021
+    4300256: 2 x 6 porch board020
+    4300258: 2 x 6 porch board019
+    4300260: 2 x 6 porch board018
+    4300262: 2 x 6 porch board017
+    4300264: 2 x 6 porch board016
+    4300266: 2 x 6 porch board015
+    4300268: 2 x 6 porch board014
+    4300270: 2 x 6 porch board013
+    4300272: 2 x 6 porch board012
+    4300274: 2 x 6 porch board011
+    4300276: 2 x 6 porch board010
+    4300278: 2 x 6 porch board009
+    4300280: 2 x 6 porch board008
+    4300282: 2 x 6 porch board007
+    4300284: 2 x 6 porch board006
+    4300286: 2 x 6 porch board005
+    4300288: 2 x 6 porch board004
+    4300290: 2 x 6 porch board003
+    4300292: 2 x 6 porch board002
+    4300294: 2 x 6 porch board001
+    4300296: 4 x 6 ceiling beam, right
+    4300298: 4 x 4 support beam, corner right and front
+    4300300: 4 x 4 support beam, corner right and back
+    4300302: 4 x 4 roof support beam right004
+    4300304: 4 x 4 roof support beam right003
+    4300306: 4 x 4 roof support beam right002
+    4300308: 4 x 4 roof support beam right001
+    4300310: 4 x 4 roof support beam right
+    4300312: 4 x 4 beam, right window front
+    4300314: 4 x 4 beam, right window back
+    4300316: 4 x 4 beam, corner right and front wall
+    4300318: 4 x 4 beam, corner right and back wall
+    4300320: 2 x 4 beam, right window top
+    4300322: 2 x 4 beam, right window bottom
+    4300324: 4 x 4 rafter013
+    4300326: 4 x 4 rafter012
+    4300328: 4 x 4 rafter011
+    4300330: 4 x 4 rafter010
+    4300332: 4 x 4 rafter009
+    4300334: 4 x 4 rafter008
+    4300336: 4 x 4 rafter007
+    4300338: 4 x 4 rafter006
+    4300340: 4 x 4 rafter005
+    4300342: 4 x 4 rafter004
+    4300344: 4 x 4 rafter003
+    4300346: 4 x 4 rafter002
+    4300348: 4 x 4 rafter001
+    4300350: 4 x 4 rafter
+    4300352: 4 x 6 ceiling beam, left
+    4300354: 4 x 4 support beam, corner left and front
+    4300356: 4 x 4 support beam, corner left and back
+    4300358: 4 x 4 roof support beam left009
+    4300360: 4 x 4 roof support beam left008
+    4300362: 4 x 4 roof support beam left007
+    4300364: 4 x 4 roof support beam left006
+    4300366: 4 x 4 roof support beam left005
+    4300368: 4 x 4 beam, left window front
+    4300370: 4 x 4 beam, left window back
+    4300372: 4 x 4 beam, corner left and front
+    4300374: 4 x 4 beam, corner left and back
+    4300376: 2 x 4 beam, left window top
+    4300378: 2 x 4 beam, left window bottom
+    4300380: 4 x 6 joist005
+    4300382: 4 x 6 joist004
+    4300384: 4 x 6 joist003
+    4300386: 4 x 6 joist002
+    4300388: 4 x 6 joist001
+    4300390: 4 x 6 joist
+    4300392: 4 x 6 ceiling beam, front
+    4300394: 4 x 4 support beam, corner right and front
+    4300396: 4 x 4 support beam, corner left and front
+    4300398: 4 x 4 beam, right door, right
+    4300400: 4 x 4 beam, right door, left
+    4300402: 4 x 4 beam, left door, right
+    4300404: 4 x 4 beam, left door, left
+    4300406: 4 x 4 beam, front midpoint right
+    4300408: 4 x 4 beam, front midpoint left
+    4300410: 4 x 4 beam, front center
+    4300412: 4 x 6 ceiling beam, back
+    4300414: 4 x 4 support beam, corner right and back
+    4300416: 4 x 4 support beam, corner left and back
+    4300418: 4 x 4 beam, right door, right
+    4300420: 4 x 4 beam, right door, left
+    4300422: 4 x 4 beam, left door, right
+    4300424: 4 x 4 beam, left door, left
+    4300426: 4 x 4 beam, back midpoint right
+    4300428: 4 x 4 beam, back midpoint left
+    4300430: 4 x 4 beam, back center
+    4300432: foundation_support034
+    4300434: foundation_support033
+    4300436: foundation_support032
+    4300438: foundation_support031
+    4300440: foundation_support030
+    4300442: foundation_support029
+    4300444: foundation_support028
+    4300446: foundation_support027
+    4300448: foundation_support026
+    4300450: foundation_support025
+    4300452: foundation_support024
+    4300454: foundation_support023
+    4300456: foundation_support009
+    4300458: 2 x 6 floor board028
+    4300460: 2 x 6 floor board027
+    4300462: 2 x 6 floor board026
+    4300464: 2 x 6 floor board025
+    4300466: 2 x 6 floor board024
+    4300468: 2 x 6 floor board023
+    4300470: 2 x 6 floor board022
+    4300472: 2 x 6 floor board021
+    4300474: 2 x 6 floor board020
+    4300476: 2 x 6 floor board019
+    4300478: 2 x 6 floor board018
+    4300480: 2 x 6 floor board017
+    4300482: 2 x 6 floor board016
+    4300484: 2 x 6 floor board015
+    4300486: 2 x 6 floor board014
+    4300488: 2 x 6 floor board013
+    4300490: 2 x 6 floor board012
+    4300492: 2 x 6 floor board011
+    4300494: 2 x 6 floor board010
+    4300496: 2 x 6 floor board009
+    4300498: 2 x 6 floor board008
+    4300500: 2 x 6 floor board007
+    4300502: 2 x 6 floor board006
+    4300504: 2 x 6 floor board005
+    4300506: 2 x 6 floor board004
+    4300508: 2 x 6 floor board003
+    4300510: 2 x 6 floor board002
+    4300512: 2 x 6 floor board001
+    4300514: 4 x 1 threshhold003
+    4300516: 4 x 1 door top003
+    4300518: 4 x 1 door right003
+    4300520: 4 x 1 door left003
+    4300522: top_door_support003
+    4300524: middle_door_support003
+    4300526: door_plank011
+    4300528: door_plank010
+    4300530: door_plank009
+    4300532: bottom_door_support003
+    4300534: top_door_support002
+    4300536: middle_door_support002
+    4300538: door_plank008
+    4300540: door_plank007
+    4300542: door_plank006
+    4300544: bottom_door_support002
+    4300546: 4 x 1 threshhold002
+    4300548: 4 x 1 door top002
+    4300550: 4 x 1 door right002
+    4300552: 4 x 1 door left002
+    4300554: top_door_support
+    4300556: middle_door_support
+    4300558: door_plank002
+    4300560: door_plank001
+    4300562: door_plank
+    4300564: bottom_door_support
+    4300566: 4 x 1 threshhold
+    4300568: 4 x 1 door top
+    4300570: 4 x 1 door right
+    4300572: 4 x 1 door left
+    4300574: top_door_support001
+    4300576: middle_door_support001
+    4300578: door_plank005
+    4300580: door_plank004
+    4300582: door_plank003
+    4300584: bottom_door_support001
+    4300586: 4 x 1 threshhold001
+    4300588: 4 x 1 door top001
+    4300590: 4 x 1 door right001
+    4300592: 4 x 1 door left001
+    4300594: front
+    4300596: back
+    4300598: 1 x 4 board007
+    4300600: 1 x 4 board006
+    4300602: 1 x 4 board005
+    4300604: 1 x 4 board004
+    4300606: 1 x 4 board003
+    4300608: 1 x 4 board002
+    4300610: 1 x 4 board001
+    4300612: 1 x 4 board
+    4300614: Plane114
+    4300616: Plane113
+    4300618: Plane103
+    4300620: Plane102
+    4300622: Plane101
+    4300624: Plane100
+    4300626: Plane099
+    4300628: Plane098
+    4300630: Plane097
+    4300632: Plane132
+    4300634: Plane131
+    4300636: Plane121
+    4300638: Plane120
+    4300640: Plane119
+    4300642: Plane118
+    4300644: Plane117
+    4300646: Plane116
+    4300648: Plane115
+    4300650: Plane150
+    4300652: Plane149
+    4300654: Plane148
+    4300656: Plane168
+    4300658: Plane167
+    4300660: Plane166
+    4300662: cut boards for windows, sides
+    4300664: cut boards for windows, front and back
+    4300666: clapboard_corner003
+    4300668: clapboard_corner002
+    4300670: clapboard_corner001
+    4300672: clapboard_corner
+    4300674: flue
+    4300676: fireplace
+    4300678: base
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
