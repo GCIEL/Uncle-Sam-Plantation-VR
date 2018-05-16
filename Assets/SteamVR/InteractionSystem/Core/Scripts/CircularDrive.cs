@@ -411,7 +411,7 @@ namespace Valve.VR.InteractionSystem
 		}
 
 
-		//-------------------------------------------------
+		//----------------------------------------------R---
 		// Updates the Debug TextMesh with the linear mapping value and the angle
 		//-------------------------------------------------
 		private void UpdateAll()
